@@ -25,7 +25,7 @@ resources:
     - repository: templates
       type: github
       name: amido/stacks-pipeline-templates
-      ref: feature/cycle4
+      ref: fix/docker-quote-param
       # EXCHANGE THIS FOR YOUR OWN ENDPOINT CONNECTION TO GITHUB
       # REPOSITORY IS PUBLIC
       endpoint: amidostacks
@@ -282,7 +282,7 @@ stages:
               project_root_dir: "${{ variables.self_project_dir }}"
               pipeline_scripts_directory: "${{ variables.self_pipeline_scripts_dir }}"
               docker_k8s_container: "k8s_deploy"
-              docker_build_additional_args: "."
+              docker_build_additional_args: " --build-arg OPEN_TELEMETRY_VERSION=v1.9.1 . "
               docker_image_name: "${{ variables.docker_image_name }}"
               docker_image_tag: "${{ variables.docker_image_tag }}"
               docker_container_registry_name: "${{ variables.docker_container_registry_name_nonprod }}"
