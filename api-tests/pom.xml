@@ -19,7 +19,7 @@
         <encoding>UTF-8</encoding>
         <parallel.tests>4</parallel.tests>
         <webdriver.base.url/>
-        <jackson.version>2.12.3</jackson.version>
+        <jackson.version>2.13.0</jackson.version>
 
         <!-- Set 'pact.broker.url' and 'pact.broker.token' -->
         <pact.broker.url/>
