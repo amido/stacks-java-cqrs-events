@@ -46,7 +46,7 @@
     <junit-jupiter.version>5.7.2</junit-jupiter.version>
     <equals-verifier.version>3.8.1</equals-verifier.version>
     <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
-    <owasp-dependency-check-plugin.version>6.5.0</owasp-dependency-check-plugin.version>
+    <owasp-dependency-check-plugin.version>7.1.1</owasp-dependency-check-plugin.version>
     <auth0-spring-security-api.version>1.4.1</auth0-spring-security-api.version>
     <io-projectreactor-netty.version>1.0.8</io-projectreactor-netty.version>
     <netty.codec.http.version>4.1.72.Final</netty.codec.http.version>
