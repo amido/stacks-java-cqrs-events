@@ -73,7 +73,7 @@
     <!--        <pact.api.port>9000</pact.api.port>-->
     <!--        <pact.version>3.5.24</pact.version>-->
     <pact.provider.spring.version>4.0.10</pact.provider.spring.version>
-    <pact.consumer.version>4.3.2</pact.consumer.version>
+    <pact.consumer.version>4.3.13</pact.consumer.version>
   </properties>
 
   <dependencies>
