@@ -29,7 +29,7 @@
         <pact.jvm.consumer.version>4.0.10</pact.jvm.consumer.version>
         <pact.jvm.provider.junit.version>4.0.10</pact.jvm.provider.junit.version>
         <spotbugs.version>4.5.2</spotbugs.version>
-        <puppycrawl-tools-checkstyle.version>9.2</puppycrawl-tools-checkstyle.version>
+        <puppycrawl-tools-checkstyle.version>10.3.2</puppycrawl-tools-checkstyle.version>
         <junit.version>4.13.2</junit.version>
         <assertj.core.version>3.21.0</assertj.core.version>
         <hamcrest.all.version>1.3</hamcrest.all.version>
