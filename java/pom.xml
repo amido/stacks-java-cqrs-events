@@ -74,7 +74,7 @@
     <exec-maven-plugin.version>3.0.0</exec-maven-plugin.version>
 
     <pact.provider.spring.version>4.0.10</pact.provider.spring.version>
-    <pact.consumer.version>4.3.2</pact.consumer.version>
+    <pact.consumer.version>4.3.13</pact.consumer.version>
   </properties>
 
   <dependencies>
