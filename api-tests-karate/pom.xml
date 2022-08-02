@@ -13,7 +13,7 @@
         <java.version>11</java.version>
         <maven.compiler.version>3.8.1</maven.compiler.version>
         <karate.version>0.9.6</karate.version>
-        <cucumber.reporting.version>5.5.3</cucumber.reporting.version>
+        <cucumber.reporting.version>5.7.2</cucumber.reporting.version>
         <maven-checkstyle-plugin.version>3.1.2</maven-checkstyle-plugin.version>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
         <puppycrawl-tools-checkstyle.version>8.44</puppycrawl-tools-checkstyle.version>
