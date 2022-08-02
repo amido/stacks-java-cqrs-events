@@ -17,7 +17,7 @@
         <maven-checkstyle-plugin.version>3.1.2</maven-checkstyle-plugin.version>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
         <puppycrawl-tools-checkstyle.version>8.44</puppycrawl-tools-checkstyle.version>
-        <spotbugs-maven-plugin.version>4.5.0.0</spotbugs-maven-plugin.version>
+        <spotbugs-maven-plugin.version>4.7.1.1</spotbugs-maven-plugin.version>
         <spotbugs.version>4.5.2</spotbugs.version>
         <exec-maven-plugin.version>3.0.0</exec-maven-plugin.version>
     </properties>
